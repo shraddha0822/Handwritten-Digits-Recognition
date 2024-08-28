@@ -1,10 +1,10 @@
 # Handwritten Digit Recognition
 
-This project implements a handwritten digit recognition system using TensorFlow and Keras with the MNIST dataset.
+This project implements a handwritten digit recognition system with the help of a simple feedforward neural network using TensorFlow with the MNIST dataset.
 
 ## Overview
 
-The system classifies handwritten digits (0-9) from grayscale images using a deep learning model.
+This project demonstrates the process of classifying handwritten digits using TensorFlow and the MNIST dataset. The MNIST dataset consists of 28x28 grayscale images of digits (0-9) and is commonly used for training various image processing systems.
 
 ## Requirements
 
@@ -18,8 +18,6 @@ The system classifies handwritten digits (0-9) from grayscale images using a dee
 1. Imports: Includes necessary libraries like TensorFlow, NumPy, and Matplotlib.
 2. MNIST Dataset: Loads the MNIST dataset containing training and testing images of handwritten digits (0-9).
 3. Data Preprocessing:
-   * Visualizes the first 9 training images.
-   * Normalizes pixel values between 0 and 1 for better training performance.
    * One-hot encodes labels for categorical crossentropy loss.
 4. Model Architecture:
    * Defines a sequential model with:
