@@ -48,3 +48,7 @@ The system classifies handwritten digits (0-9) from grayscale images using a dee
 * Save the code as a Python file (e.g., mnist_classification.py).
 * Run the script using python mnist_classification.py.
 * The script will generate training progress plots and display a sample prediction.
+
+## **License**
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
