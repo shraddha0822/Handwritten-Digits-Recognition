@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition
 
-This project implements a handwritten digit recognition system with the help of a simple feedforward neural network using TensorFlow with the MNIST dataset.
+This project implements a handwritten digit recognition system with the help of a Feedforward Neural Network using TensorFlow with the MNIST dataset.
 
 ## Overview
 
